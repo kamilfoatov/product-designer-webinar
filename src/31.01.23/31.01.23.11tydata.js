@@ -14,6 +14,6 @@ function getCat(data) {
 
 module.exports = {
     permalink: false,
-    tags: "31.01.22",
+    tags: "31.01.23",
     eleventyComputed: { img: getCat },
 };
